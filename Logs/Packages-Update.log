@@ -1,0 +1,21 @@
+
+=== Fri Feb 13 11:16:44 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.modules.adaptiveperformance@1.0.0
+  com.unity.modules.vectorgraphics@1.0.0
+  com.unity.ai.navigation@2.0.9
+  com.unity.modules.accessibility@1.0.0
+  com.unity.multiplayer.center@1.0.1
+The following packages were updated:
+  com.unity.2d.animation from version 5.2.7 to 13.0.2
+  com.unity.2d.pixel-perfect from version 4.0.1 to 5.1.1
+  com.unity.2d.psdimporter from version 4.3.1 to 12.0.1
+  com.unity.2d.spriteshape from version 5.3.0 to 13.0.0
+  com.unity.ide.visualstudio from version 2.0.22 to 2.0.26
+  com.unity.ugui from version 1.0.0 to 2.0.0
+The following packages were removed:
+  com.unity.textmeshpro@3.0.9
